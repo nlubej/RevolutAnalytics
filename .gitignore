@@ -1,2 +1,5 @@
-merchantCategory.json
+*.json
 *.png
+*.csv
+config/*
+*.pyc
